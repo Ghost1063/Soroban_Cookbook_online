@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1351-show-initials-when-a-testimonial-image-fails",
+    "main",
+    "origin",
+    "security/issue-915-add-secret-key-and-network-guards-for-getting"
+  ],
+  "parent": {
+    "fix/issue-1351-show-initials-when-a-testimonial-image-fails": "main",
+    "main": null,
+    "origin": "main",
+    "security/issue-915-add-secret-key-and-network-guards-for-getting": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1351-show-initials-when-a-testimonial-image-fails",
+    "origin",
+    "security/issue-915-add-secret-key-and-network-guards-for-getting"
+  ]
+}
